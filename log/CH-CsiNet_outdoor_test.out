@@ -1,0 +1,2070 @@
+2022-01-13 11:43:48.731447: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2022-01-13 11:43:48.933613: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1392] Found device 0 with properties: 
+name: GeForce GTX 1080 Ti major: 6 minor: 1 memoryClockRate(GHz): 1.582
+pciBusID: 0000:84:00.0
+totalMemory: 10.92GiB freeMemory: 6.22GiB
+2022-01-13 11:43:48.933672: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1471] Adding visible gpu devices: 0
+2022-01-13 11:43:49.469824: I tensorflow/core/common_runtime/gpu/gpu_device.cc:952] Device interconnect StreamExecutor with strength 1 edge matrix:
+2022-01-13 11:43:49.469889: I tensorflow/core/common_runtime/gpu/gpu_device.cc:958]      0 
+2022-01-13 11:43:49.469899: I tensorflow/core/common_runtime/gpu/gpu_device.cc:971] 0:   N 
+2022-01-13 11:43:49.470121: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1084] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 4471 MB memory) -> physical GPU (device: 0, name: GeForce GTX 1080 Ti, pci bus id: 0000:84:00.0, compute capability: 6.1)
+2022-01-13 11:44:13.074925: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1471] Adding visible gpu devices: 0
+2022-01-13 11:44:13.075042: I tensorflow/core/common_runtime/gpu/gpu_device.cc:952] Device interconnect StreamExecutor with strength 1 edge matrix:
+2022-01-13 11:44:13.075053: I tensorflow/core/common_runtime/gpu/gpu_device.cc:958]      0 
+2022-01-13 11:44:13.075059: I tensorflow/core/common_runtime/gpu/gpu_device.cc:971] 0:   N 
+2022-01-13 11:44:13.075327: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1084] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 4471 MB memory) -> physical GPU (device: 0, name: GeForce GTX 1080 Ti, pci bus id: 0000:84:00.0, compute capability: 6.1)
+It cost 0.000231 sec
+In outdoor environment
+When dimension is 0
+NMSE is  0.05745783777044669
+It cost 0.000168 sec
+In outdoor environment
+When dimension is 1
+NMSE is  0.042605205783365185
+It cost 0.000178 sec
+In outdoor environment
+When dimension is 2
+NMSE is  0.025235767357724634
+It cost 0.000182 sec
+In outdoor environment
+When dimension is 3
+NMSE is  0.005297179020669987
+It cost 0.000193 sec
+In outdoor environment
+When dimension is 4
+NMSE is  -0.017978467173290175
+It cost 0.000189 sec
+In outdoor environment
+When dimension is 5
+NMSE is  -0.0364164242324041
+It cost 0.000193 sec
+In outdoor environment
+When dimension is 6
+NMSE is  -0.06843868721828002
+It cost 0.000199 sec
+In outdoor environment
+When dimension is 7
+NMSE is  -0.10935932947814667
+It cost 0.000197 sec
+In outdoor environment
+When dimension is 8
+NMSE is  -0.13791437575027224
+It cost 0.000201 sec
+In outdoor environment
+When dimension is 9
+NMSE is  -0.16784131009158207
+It cost 0.000216 sec
+In outdoor environment
+When dimension is 10
+NMSE is  -0.21404156562877721
+It cost 0.000218 sec
+In outdoor environment
+When dimension is 11
+NMSE is  -0.2510915109495445
+It cost 0.000220 sec
+In outdoor environment
+When dimension is 12
+NMSE is  -0.28330596754545095
+It cost 0.000229 sec
+In outdoor environment
+When dimension is 13
+NMSE is  -0.3206330708999641
+It cost 0.000234 sec
+In outdoor environment
+When dimension is 14
+NMSE is  -0.3599182417406787
+It cost 0.000245 sec
+In outdoor environment
+When dimension is 15
+NMSE is  -0.3971273712054747
+It cost 0.000245 sec
+In outdoor environment
+When dimension is 16
+NMSE is  -0.43762314733211427
+It cost 0.000253 sec
+In outdoor environment
+When dimension is 17
+NMSE is  -0.4781654212306349
+It cost 0.000258 sec
+In outdoor environment
+When dimension is 18
+NMSE is  -0.518665879238902
+It cost 0.000261 sec
+In outdoor environment
+When dimension is 19
+NMSE is  -0.5595664306284958
+It cost 0.000267 sec
+In outdoor environment
+When dimension is 20
+NMSE is  -0.6029217542533077
+It cost 0.000270 sec
+In outdoor environment
+When dimension is 21
+NMSE is  -0.6451832636217224
+It cost 0.000273 sec
+In outdoor environment
+When dimension is 22
+NMSE is  -0.6873802975495414
+It cost 0.000282 sec
+In outdoor environment
+When dimension is 23
+NMSE is  -0.7296517452612492
+It cost 0.000278 sec
+In outdoor environment
+When dimension is 24
+NMSE is  -0.7735547929112053
+It cost 0.000286 sec
+In outdoor environment
+When dimension is 25
+NMSE is  -0.8171125083391539
+It cost 0.000292 sec
+In outdoor environment
+When dimension is 26
+NMSE is  -0.8585733470405178
+It cost 0.000295 sec
+In outdoor environment
+When dimension is 27
+NMSE is  -0.9009549139212576
+It cost 0.000307 sec
+In outdoor environment
+When dimension is 28
+NMSE is  -0.9414881014576126
+It cost 0.000310 sec
+In outdoor environment
+When dimension is 29
+NMSE is  -0.9855701402108269
+It cost 0.000310 sec
+In outdoor environment
+When dimension is 30
+NMSE is  -1.027538498064074
+It cost 0.000318 sec
+In outdoor environment
+When dimension is 31
+NMSE is  -1.0703293742791777
+It cost 0.000319 sec
+In outdoor environment
+When dimension is 32
+NMSE is  -1.1090705202424853
+It cost 0.000340 sec
+In outdoor environment
+When dimension is 33
+NMSE is  -1.148102371629559
+It cost 0.000336 sec
+In outdoor environment
+When dimension is 34
+NMSE is  -1.186182473658539
+It cost 0.000345 sec
+In outdoor environment
+When dimension is 35
+NMSE is  -1.2224958893622961
+It cost 0.000342 sec
+In outdoor environment
+When dimension is 36
+NMSE is  -1.260007720681118
+It cost 0.000369 sec
+In outdoor environment
+When dimension is 37
+NMSE is  -1.296307481351837
+It cost 0.000365 sec
+In outdoor environment
+When dimension is 38
+NMSE is  -1.332632792282694
+It cost 0.000398 sec
+In outdoor environment
+When dimension is 39
+NMSE is  -1.3692013453896705
+It cost 0.000380 sec
+In outdoor environment
+When dimension is 40
+NMSE is  -1.405093657096311
+It cost 0.000399 sec
+In outdoor environment
+When dimension is 41
+NMSE is  -1.4383107195387077
+It cost 0.000395 sec
+In outdoor environment
+When dimension is 42
+NMSE is  -1.4772826352991748
+It cost 0.000397 sec
+In outdoor environment
+When dimension is 43
+NMSE is  -1.5149413519946409
+It cost 0.000417 sec
+In outdoor environment
+When dimension is 44
+NMSE is  -1.5518747250226763
+It cost 0.000396 sec
+In outdoor environment
+When dimension is 45
+NMSE is  -1.5900214753918305
+It cost 0.000432 sec
+In outdoor environment
+When dimension is 46
+NMSE is  -1.6279560417317296
+It cost 0.000420 sec
+In outdoor environment
+When dimension is 47
+NMSE is  -1.6655699544271565
+It cost 0.000442 sec
+In outdoor environment
+When dimension is 48
+NMSE is  -1.7046031860102941
+It cost 0.000437 sec
+In outdoor environment
+When dimension is 49
+NMSE is  -1.7415288813545864
+It cost 0.000456 sec
+In outdoor environment
+When dimension is 50
+NMSE is  -1.7762637948741757
+It cost 0.000461 sec
+In outdoor environment
+When dimension is 51
+NMSE is  -1.8114736024259523
+It cost 0.000464 sec
+In outdoor environment
+When dimension is 52
+NMSE is  -1.8464357625256975
+It cost 0.000462 sec
+In outdoor environment
+When dimension is 53
+NMSE is  -1.8808166014912842
+It cost 0.000466 sec
+In outdoor environment
+When dimension is 54
+NMSE is  -1.9144700355616924
+It cost 0.000508 sec
+In outdoor environment
+When dimension is 55
+NMSE is  -1.947060367735244
+It cost 0.000472 sec
+In outdoor environment
+When dimension is 56
+NMSE is  -1.9778696211661086
+It cost 0.000527 sec
+In outdoor environment
+When dimension is 57
+NMSE is  -2.0135725062877867
+It cost 0.000532 sec
+In outdoor environment
+When dimension is 58
+NMSE is  -2.0467388127318724
+It cost 0.000548 sec
+In outdoor environment
+When dimension is 59
+NMSE is  -2.0815279644196134
+It cost 0.000518 sec
+In outdoor environment
+When dimension is 60
+NMSE is  -2.1159153854376433
+It cost 0.000536 sec
+In outdoor environment
+When dimension is 61
+NMSE is  -2.149300682700935
+It cost 0.000565 sec
+In outdoor environment
+When dimension is 62
+NMSE is  -2.1840098249000928
+It cost 0.000549 sec
+In outdoor environment
+When dimension is 63
+NMSE is  -2.2171854545834027
+It cost 0.000581 sec
+In outdoor environment
+When dimension is 64
+NMSE is  -2.2498424456401622
+It cost 0.000589 sec
+In outdoor environment
+When dimension is 65
+NMSE is  -2.281691302816368
+It cost 0.000605 sec
+In outdoor environment
+When dimension is 66
+NMSE is  -2.3152649731568498
+It cost 0.000600 sec
+In outdoor environment
+When dimension is 67
+NMSE is  -2.34835956336608
+It cost 0.000618 sec
+In outdoor environment
+When dimension is 68
+NMSE is  -2.381796530630787
+It cost 0.000594 sec
+In outdoor environment
+When dimension is 69
+NMSE is  -2.4129560496827462
+It cost 0.000629 sec
+In outdoor environment
+When dimension is 70
+NMSE is  -2.445916201220587
+It cost 0.000655 sec
+In outdoor environment
+When dimension is 71
+NMSE is  -2.4786570355250994
+It cost 0.000634 sec
+In outdoor environment
+When dimension is 72
+NMSE is  -2.5101638321518953
+It cost 0.000667 sec
+In outdoor environment
+When dimension is 73
+NMSE is  -2.5422262362437005
+It cost 0.000652 sec
+In outdoor environment
+When dimension is 74
+NMSE is  -2.573250729621849
+It cost 0.000658 sec
+In outdoor environment
+When dimension is 75
+NMSE is  -2.604928508359079
+It cost 0.000663 sec
+In outdoor environment
+When dimension is 76
+NMSE is  -2.637266620995681
+It cost 0.000669 sec
+In outdoor environment
+When dimension is 77
+NMSE is  -2.6697621298866494
+It cost 0.000676 sec
+In outdoor environment
+When dimension is 78
+NMSE is  -2.700403202095764
+It cost 0.000720 sec
+In outdoor environment
+When dimension is 79
+NMSE is  -2.731440178066462
+It cost 0.000730 sec
+In outdoor environment
+When dimension is 80
+NMSE is  -2.7611344811988636
+It cost 0.000677 sec
+In outdoor environment
+When dimension is 81
+NMSE is  -2.7932645714360365
+It cost 0.000725 sec
+In outdoor environment
+When dimension is 82
+NMSE is  -2.822619484032987
+It cost 0.000739 sec
+In outdoor environment
+When dimension is 83
+NMSE is  -2.853290537251345
+It cost 0.000729 sec
+In outdoor environment
+When dimension is 84
+NMSE is  -2.8836854158741025
+It cost 0.000718 sec
+In outdoor environment
+When dimension is 85
+NMSE is  -2.9130843908136055
+It cost 0.000773 sec
+In outdoor environment
+When dimension is 86
+NMSE is  -2.943695140100738
+It cost 0.000781 sec
+In outdoor environment
+When dimension is 87
+NMSE is  -2.973914756536891
+It cost 0.000776 sec
+In outdoor environment
+When dimension is 88
+NMSE is  -3.0034786688402013
+It cost 0.000810 sec
+In outdoor environment
+When dimension is 89
+NMSE is  -3.0333560727867797
+It cost 0.000802 sec
+In outdoor environment
+When dimension is 90
+NMSE is  -3.0637698488015257
+It cost 0.000804 sec
+In outdoor environment
+When dimension is 91
+NMSE is  -3.094227890578254
+It cost 0.000820 sec
+In outdoor environment
+When dimension is 92
+NMSE is  -3.123927602936826
+It cost 0.000798 sec
+In outdoor environment
+When dimension is 93
+NMSE is  -3.154069684806487
+It cost 0.000759 sec
+In outdoor environment
+When dimension is 94
+NMSE is  -3.1842785464584855
+It cost 0.000836 sec
+In outdoor environment
+When dimension is 95
+NMSE is  -3.2145820656595996
+It cost 0.000873 sec
+In outdoor environment
+When dimension is 96
+NMSE is  -3.2434735911731676
+It cost 0.000871 sec
+In outdoor environment
+When dimension is 97
+NMSE is  -3.2728478874187883
+It cost 0.000884 sec
+In outdoor environment
+When dimension is 98
+NMSE is  -3.3015819951748515
+It cost 0.000903 sec
+In outdoor environment
+When dimension is 99
+NMSE is  -3.3302098766471837
+It cost 0.000891 sec
+In outdoor environment
+When dimension is 100
+NMSE is  -3.3576097300476233
+It cost 0.000882 sec
+In outdoor environment
+When dimension is 101
+NMSE is  -3.386005949255538
+It cost 0.000870 sec
+In outdoor environment
+When dimension is 102
+NMSE is  -3.4099144835280457
+It cost 0.000909 sec
+In outdoor environment
+When dimension is 103
+NMSE is  -3.4406342095758706
+It cost 0.000943 sec
+In outdoor environment
+When dimension is 104
+NMSE is  -3.470407075452575
+It cost 0.000941 sec
+In outdoor environment
+When dimension is 105
+NMSE is  -3.5007051000677225
+It cost 0.000970 sec
+In outdoor environment
+When dimension is 106
+NMSE is  -3.5293412653151672
+It cost 0.000970 sec
+In outdoor environment
+When dimension is 107
+NMSE is  -3.5588761732181906
+It cost 0.000987 sec
+In outdoor environment
+When dimension is 108
+NMSE is  -3.5876342617115577
+It cost 0.000963 sec
+In outdoor environment
+When dimension is 109
+NMSE is  -3.615212141945512
+It cost 0.000975 sec
+In outdoor environment
+When dimension is 110
+NMSE is  -3.643752402171806
+It cost 0.000997 sec
+In outdoor environment
+When dimension is 111
+NMSE is  -3.6716771413283498
+It cost 0.000999 sec
+In outdoor environment
+When dimension is 112
+NMSE is  -3.700077206053363
+It cost 0.000992 sec
+In outdoor environment
+When dimension is 113
+NMSE is  -3.7278304890389187
+It cost 0.001036 sec
+In outdoor environment
+When dimension is 114
+NMSE is  -3.755825272639054
+It cost 0.001020 sec
+In outdoor environment
+When dimension is 115
+NMSE is  -3.783683075642826
+It cost 0.001048 sec
+In outdoor environment
+When dimension is 116
+NMSE is  -3.8119809976745618
+It cost 0.001069 sec
+In outdoor environment
+When dimension is 117
+NMSE is  -3.8398224319888836
+It cost 0.001037 sec
+In outdoor environment
+When dimension is 118
+NMSE is  -3.8663861121771648
+It cost 0.001072 sec
+In outdoor environment
+When dimension is 119
+NMSE is  -3.8917957828230128
+It cost 0.001111 sec
+In outdoor environment
+When dimension is 120
+NMSE is  -3.9177247146186995
+It cost 0.001111 sec
+In outdoor environment
+When dimension is 121
+NMSE is  -3.9429108601819447
+It cost 0.001123 sec
+In outdoor environment
+When dimension is 122
+NMSE is  -3.968369470208335
+It cost 0.001116 sec
+In outdoor environment
+When dimension is 123
+NMSE is  -3.9884108853143374
+It cost 0.001093 sec
+In outdoor environment
+When dimension is 124
+NMSE is  -4.015316714527099
+It cost 0.001148 sec
+In outdoor environment
+When dimension is 125
+NMSE is  -4.042476945568161
+It cost 0.001189 sec
+In outdoor environment
+When dimension is 126
+NMSE is  -4.068748039141454
+It cost 0.001169 sec
+In outdoor environment
+When dimension is 127
+NMSE is  -4.095866303532259
+It cost 0.001166 sec
+In outdoor environment
+When dimension is 128
+NMSE is  -4.122818506475267
+It cost 0.001196 sec
+In outdoor environment
+When dimension is 129
+NMSE is  -4.148739442863744
+It cost 0.001220 sec
+In outdoor environment
+When dimension is 130
+NMSE is  -4.174489071597243
+It cost 0.001249 sec
+In outdoor environment
+When dimension is 131
+NMSE is  -4.2009084597750945
+It cost 0.001194 sec
+In outdoor environment
+When dimension is 132
+NMSE is  -4.225698136855919
+It cost 0.001258 sec
+In outdoor environment
+When dimension is 133
+NMSE is  -4.250940122512031
+It cost 0.001266 sec
+In outdoor environment
+When dimension is 134
+NMSE is  -4.276336260260571
+It cost 0.001290 sec
+In outdoor environment
+When dimension is 135
+NMSE is  -4.301298055479004
+It cost 0.001266 sec
+In outdoor environment
+When dimension is 136
+NMSE is  -4.325699726075516
+It cost 0.001357 sec
+In outdoor environment
+When dimension is 137
+NMSE is  -4.34985797745401
+It cost 0.001283 sec
+In outdoor environment
+When dimension is 138
+NMSE is  -4.374873972865546
+It cost 0.001338 sec
+In outdoor environment
+When dimension is 139
+NMSE is  -4.398464522446538
+It cost 0.001302 sec
+In outdoor environment
+When dimension is 140
+NMSE is  -4.421888681052705
+It cost 0.001368 sec
+In outdoor environment
+When dimension is 141
+NMSE is  -4.4429539182823765
+It cost 0.001319 sec
+In outdoor environment
+When dimension is 142
+NMSE is  -4.466732869362699
+It cost 0.001360 sec
+In outdoor environment
+When dimension is 143
+NMSE is  -4.4913034407586485
+It cost 0.001354 sec
+In outdoor environment
+When dimension is 144
+NMSE is  -4.513797825470606
+It cost 0.001347 sec
+In outdoor environment
+When dimension is 145
+NMSE is  -4.5375417291436495
+It cost 0.001352 sec
+In outdoor environment
+When dimension is 146
+NMSE is  -4.560712518919376
+It cost 0.001412 sec
+In outdoor environment
+When dimension is 147
+NMSE is  -4.58346910556952
+It cost 0.001389 sec
+In outdoor environment
+When dimension is 148
+NMSE is  -4.6091101347808054
+It cost 0.001464 sec
+In outdoor environment
+When dimension is 149
+NMSE is  -4.632191985102898
+It cost 0.001388 sec
+In outdoor environment
+When dimension is 150
+NMSE is  -4.653984542372399
+It cost 0.001443 sec
+In outdoor environment
+When dimension is 151
+NMSE is  -4.6759606981058
+It cost 0.001414 sec
+In outdoor environment
+When dimension is 152
+NMSE is  -4.698666042588238
+It cost 0.001453 sec
+In outdoor environment
+When dimension is 153
+NMSE is  -4.721139490699913
+It cost 0.001456 sec
+In outdoor environment
+When dimension is 154
+NMSE is  -4.743757617979723
+It cost 0.001485 sec
+In outdoor environment
+When dimension is 155
+NMSE is  -4.765621154911502
+It cost 0.001481 sec
+In outdoor environment
+When dimension is 156
+NMSE is  -4.787671319121465
+It cost 0.001647 sec
+In outdoor environment
+When dimension is 157
+NMSE is  -4.809697679195926
+It cost 0.001548 sec
+In outdoor environment
+When dimension is 158
+NMSE is  -4.8322986057479635
+It cost 0.001665 sec
+In outdoor environment
+When dimension is 159
+NMSE is  -4.853522877095417
+It cost 0.001537 sec
+In outdoor environment
+When dimension is 160
+NMSE is  -4.875226796408446
+It cost 0.001686 sec
+In outdoor environment
+When dimension is 161
+NMSE is  -4.896151675052842
+It cost 0.001563 sec
+In outdoor environment
+When dimension is 162
+NMSE is  -4.915758572405167
+It cost 0.001565 sec
+In outdoor environment
+When dimension is 163
+NMSE is  -4.935384627158125
+It cost 0.001584 sec
+In outdoor environment
+When dimension is 164
+NMSE is  -4.954293330046459
+It cost 0.001637 sec
+In outdoor environment
+When dimension is 165
+NMSE is  -4.973944571779917
+It cost 0.001598 sec
+In outdoor environment
+When dimension is 166
+NMSE is  -4.992825729382697
+It cost 0.001657 sec
+In outdoor environment
+When dimension is 167
+NMSE is  -5.012530588171273
+It cost 0.001693 sec
+In outdoor environment
+When dimension is 168
+NMSE is  -5.032597419845139
+It cost 0.001637 sec
+In outdoor environment
+When dimension is 169
+NMSE is  -5.051556939793226
+It cost 0.001983 sec
+In outdoor environment
+When dimension is 170
+NMSE is  -5.069768501822405
+It cost 0.001910 sec
+In outdoor environment
+When dimension is 171
+NMSE is  -5.0862206177186575
+It cost 0.001910 sec
+In outdoor environment
+When dimension is 172
+NMSE is  -5.103514035448463
+It cost 0.001913 sec
+In outdoor environment
+When dimension is 173
+NMSE is  -5.120756230232907
+It cost 0.002088 sec
+In outdoor environment
+When dimension is 174
+NMSE is  -5.1385006733057645
+It cost 0.001979 sec
+In outdoor environment
+When dimension is 175
+NMSE is  -5.154666030267769
+It cost 0.001869 sec
+In outdoor environment
+When dimension is 176
+NMSE is  -5.158411033376455
+It cost 0.001934 sec
+In outdoor environment
+When dimension is 177
+NMSE is  -5.178796922336959
+It cost 0.002006 sec
+In outdoor environment
+When dimension is 178
+NMSE is  -5.198564684977525
+It cost 0.001829 sec
+In outdoor environment
+When dimension is 179
+NMSE is  -5.2182369053117394
+It cost 0.001844 sec
+In outdoor environment
+When dimension is 180
+NMSE is  -5.238021122652011
+It cost 0.001775 sec
+In outdoor environment
+When dimension is 181
+NMSE is  -5.257103725997638
+It cost 0.001847 sec
+In outdoor environment
+When dimension is 182
+NMSE is  -5.277077547216954
+It cost 0.001840 sec
+In outdoor environment
+When dimension is 183
+NMSE is  -5.2959149003249495
+It cost 0.002275 sec
+In outdoor environment
+When dimension is 184
+NMSE is  -5.3142446673283
+It cost 0.001832 sec
+In outdoor environment
+When dimension is 185
+NMSE is  -5.332588495119336
+It cost 0.001936 sec
+In outdoor environment
+When dimension is 186
+NMSE is  -5.350940908772221
+It cost 0.001894 sec
+In outdoor environment
+When dimension is 187
+NMSE is  -5.36966265514425
+It cost 0.002058 sec
+In outdoor environment
+When dimension is 188
+NMSE is  -5.388281949269138
+It cost 0.002130 sec
+In outdoor environment
+When dimension is 189
+NMSE is  -5.405930602013075
+It cost 0.002044 sec
+In outdoor environment
+When dimension is 190
+NMSE is  -5.424650409032176
+It cost 0.001934 sec
+In outdoor environment
+When dimension is 191
+NMSE is  -5.441670176840534
+It cost 0.002054 sec
+In outdoor environment
+When dimension is 192
+NMSE is  -5.459611736468899
+It cost 0.002201 sec
+In outdoor environment
+When dimension is 193
+NMSE is  -5.477748797298542
+It cost 0.002025 sec
+In outdoor environment
+When dimension is 194
+NMSE is  -5.493970692837184
+It cost 0.002020 sec
+In outdoor environment
+When dimension is 195
+NMSE is  -5.510718816491666
+It cost 0.002038 sec
+In outdoor environment
+When dimension is 196
+NMSE is  -5.527627444822336
+It cost 0.002411 sec
+In outdoor environment
+When dimension is 197
+NMSE is  -5.544227750112566
+It cost 0.002006 sec
+In outdoor environment
+When dimension is 198
+NMSE is  -5.560882436955863
+It cost 0.002718 sec
+In outdoor environment
+When dimension is 199
+NMSE is  -5.577315129439371
+It cost 0.002235 sec
+In outdoor environment
+When dimension is 200
+NMSE is  -5.593246688470921
+It cost 0.002391 sec
+In outdoor environment
+When dimension is 201
+NMSE is  -5.608765999344719
+It cost 0.002431 sec
+In outdoor environment
+When dimension is 202
+NMSE is  -5.623868892351236
+It cost 0.002601 sec
+In outdoor environment
+When dimension is 203
+NMSE is  -5.639198989246129
+It cost 0.002660 sec
+In outdoor environment
+When dimension is 204
+NMSE is  -5.653343914261071
+It cost 0.002544 sec
+In outdoor environment
+When dimension is 205
+NMSE is  -5.668159407959283
+It cost 0.002734 sec
+In outdoor environment
+When dimension is 206
+NMSE is  -5.6289401145284
+It cost 0.002490 sec
+In outdoor environment
+When dimension is 207
+NMSE is  -5.647082470977151
+It cost 0.002578 sec
+In outdoor environment
+When dimension is 208
+NMSE is  -5.6641409016292705
+It cost 0.003051 sec
+In outdoor environment
+When dimension is 209
+NMSE is  -5.68174591242588
+It cost 0.002906 sec
+In outdoor environment
+When dimension is 210
+NMSE is  -5.698123134745575
+It cost 0.003142 sec
+In outdoor environment
+When dimension is 211
+NMSE is  -5.714296986510378
+It cost 0.002748 sec
+In outdoor environment
+When dimension is 212
+NMSE is  -5.7320158388253
+It cost 0.003005 sec
+In outdoor environment
+When dimension is 213
+NMSE is  -5.7481838983932025
+It cost 0.002422 sec
+In outdoor environment
+When dimension is 214
+NMSE is  -5.764574901875043
+It cost 0.002843 sec
+In outdoor environment
+When dimension is 215
+NMSE is  -5.781075526014757
+It cost 0.002689 sec
+In outdoor environment
+When dimension is 216
+NMSE is  -5.798347839584064
+It cost 0.002458 sec
+In outdoor environment
+When dimension is 217
+NMSE is  -5.814326776799228
+It cost 0.003225 sec
+In outdoor environment
+When dimension is 218
+NMSE is  -5.829931649710117
+It cost 0.002765 sec
+In outdoor environment
+When dimension is 219
+NMSE is  -5.845555500389382
+It cost 0.002704 sec
+In outdoor environment
+When dimension is 220
+NMSE is  -5.861380492809073
+It cost 0.002614 sec
+In outdoor environment
+When dimension is 221
+NMSE is  -5.8775203349622736
+It cost 0.003289 sec
+In outdoor environment
+When dimension is 222
+NMSE is  -5.891650794270592
+It cost 0.002874 sec
+In outdoor environment
+When dimension is 223
+NMSE is  -5.907268165238698
+It cost 0.003469 sec
+In outdoor environment
+When dimension is 224
+NMSE is  -5.92113207851655
+It cost 0.002935 sec
+In outdoor environment
+When dimension is 225
+NMSE is  -5.9355632708713335
+It cost 0.003090 sec
+In outdoor environment
+When dimension is 226
+NMSE is  -5.950451625003699
+It cost 0.002919 sec
+In outdoor environment
+When dimension is 227
+NMSE is  -5.964789577821818
+It cost 0.003301 sec
+In outdoor environment
+When dimension is 228
+NMSE is  -5.979454510811877
+It cost 0.003291 sec
+In outdoor environment
+When dimension is 229
+NMSE is  -5.994008071113127
+It cost 0.003302 sec
+In outdoor environment
+When dimension is 230
+NMSE is  -6.008859425523772
+It cost 0.003366 sec
+In outdoor environment
+When dimension is 231
+NMSE is  -6.0227096143172325
+It cost 0.003087 sec
+In outdoor environment
+When dimension is 232
+NMSE is  -6.036128678331423
+It cost 0.003125 sec
+In outdoor environment
+When dimension is 233
+NMSE is  -6.049877559662779
+It cost 0.003948 sec
+In outdoor environment
+When dimension is 234
+NMSE is  -6.0627844382481575
+It cost 0.003463 sec
+In outdoor environment
+When dimension is 235
+NMSE is  -6.076649305081412
+It cost 0.004382 sec
+In outdoor environment
+When dimension is 236
+NMSE is  -6.089436494238026
+It cost 0.003426 sec
+In outdoor environment
+When dimension is 237
+NMSE is  -6.103307431131321
+It cost 0.003925 sec
+In outdoor environment
+When dimension is 238
+NMSE is  -6.117414976816187
+It cost 0.003552 sec
+In outdoor environment
+When dimension is 239
+NMSE is  -6.131097422206359
+It cost 0.004460 sec
+In outdoor environment
+When dimension is 240
+NMSE is  -6.1433817504475075
+It cost 0.004414 sec
+In outdoor environment
+When dimension is 241
+NMSE is  -6.156180819772585
+It cost 0.003880 sec
+In outdoor environment
+When dimension is 242
+NMSE is  -6.169131294375524
+It cost 0.003917 sec
+In outdoor environment
+When dimension is 243
+NMSE is  -6.181131646733156
+It cost 0.003705 sec
+In outdoor environment
+When dimension is 244
+NMSE is  -6.194517879492874
+It cost 0.003787 sec
+In outdoor environment
+When dimension is 245
+NMSE is  -6.207176918288793
+It cost 0.004527 sec
+In outdoor environment
+When dimension is 246
+NMSE is  -6.217979802095569
+It cost 0.003815 sec
+In outdoor environment
+When dimension is 247
+NMSE is  -6.229461446929269
+It cost 0.004721 sec
+In outdoor environment
+When dimension is 248
+NMSE is  -6.242216364407155
+It cost 0.004161 sec
+In outdoor environment
+When dimension is 249
+NMSE is  -6.253709907176006
+It cost 0.004465 sec
+In outdoor environment
+When dimension is 250
+NMSE is  -6.265692139297326
+It cost 0.003645 sec
+In outdoor environment
+When dimension is 251
+NMSE is  -6.274945724161766
+It cost 0.004661 sec
+In outdoor environment
+When dimension is 252
+NMSE is  -6.286422851931071
+It cost 0.004963 sec
+In outdoor environment
+When dimension is 253
+NMSE is  -6.298466554049147
+It cost 0.004501 sec
+In outdoor environment
+When dimension is 254
+NMSE is  -6.309692881837982
+It cost 0.004705 sec
+In outdoor environment
+When dimension is 255
+NMSE is  -6.321093107244754
+It cost 0.004547 sec
+In outdoor environment
+When dimension is 256
+NMSE is  -6.332370365060945
+It cost 0.005212 sec
+In outdoor environment
+When dimension is 257
+NMSE is  -6.343636549414092
+It cost 0.004451 sec
+In outdoor environment
+When dimension is 258
+NMSE is  -6.3561995321557205
+It cost 0.005161 sec
+In outdoor environment
+When dimension is 259
+NMSE is  -6.367704150124181
+It cost 0.005013 sec
+In outdoor environment
+When dimension is 260
+NMSE is  -6.378552545452348
+It cost 0.005102 sec
+In outdoor environment
+When dimension is 261
+NMSE is  -6.389824623647823
+It cost 0.004885 sec
+In outdoor environment
+When dimension is 262
+NMSE is  -6.4012913377417
+It cost 0.004645 sec
+In outdoor environment
+When dimension is 263
+NMSE is  -6.412075339862959
+It cost 0.004790 sec
+In outdoor environment
+When dimension is 264
+NMSE is  -6.4226601415510265
+It cost 0.005699 sec
+In outdoor environment
+When dimension is 265
+NMSE is  -6.434534323571201
+It cost 0.005078 sec
+In outdoor environment
+When dimension is 266
+NMSE is  -6.445300240612244
+It cost 0.005502 sec
+In outdoor environment
+When dimension is 267
+NMSE is  -6.456050273994557
+It cost 0.005234 sec
+In outdoor environment
+When dimension is 268
+NMSE is  -6.468147078358708
+It cost 0.005820 sec
+In outdoor environment
+When dimension is 269
+NMSE is  -6.4783935320636745
+It cost 0.005478 sec
+In outdoor environment
+When dimension is 270
+NMSE is  -6.488126250810335
+It cost 0.005735 sec
+In outdoor environment
+When dimension is 271
+NMSE is  -6.498526058405318
+It cost 0.005026 sec
+In outdoor environment
+When dimension is 272
+NMSE is  -6.506216651614386
+It cost 0.005596 sec
+In outdoor environment
+When dimension is 273
+NMSE is  -6.516714186233816
+It cost 0.005045 sec
+In outdoor environment
+When dimension is 274
+NMSE is  -6.526466076651483
+It cost 0.005529 sec
+In outdoor environment
+When dimension is 275
+NMSE is  -6.536746558515474
+It cost 0.006303 sec
+In outdoor environment
+When dimension is 276
+NMSE is  -6.547538006909067
+It cost 0.005879 sec
+In outdoor environment
+When dimension is 277
+NMSE is  -6.557842477966259
+It cost 0.005835 sec
+In outdoor environment
+When dimension is 278
+NMSE is  -6.568035794975203
+It cost 0.005987 sec
+In outdoor environment
+When dimension is 279
+NMSE is  -6.577789847399113
+It cost 0.005856 sec
+In outdoor environment
+When dimension is 280
+NMSE is  -6.586695815687014
+It cost 0.005508 sec
+In outdoor environment
+When dimension is 281
+NMSE is  -6.596514378248271
+It cost 0.006267 sec
+In outdoor environment
+When dimension is 282
+NMSE is  -6.605897822478485
+It cost 0.005999 sec
+In outdoor environment
+When dimension is 283
+NMSE is  -6.61540221739671
+It cost 0.006217 sec
+In outdoor environment
+When dimension is 284
+NMSE is  -6.624668337150252
+It cost 0.004291 sec
+In outdoor environment
+When dimension is 285
+NMSE is  -6.63366151954005
+It cost 0.004278 sec
+In outdoor environment
+When dimension is 286
+NMSE is  -6.641969026531468
+It cost 0.006063 sec
+In outdoor environment
+When dimension is 287
+NMSE is  -6.650691074043346
+It cost 0.006309 sec
+In outdoor environment
+When dimension is 288
+NMSE is  -6.659436371246608
+It cost 0.006118 sec
+In outdoor environment
+When dimension is 289
+NMSE is  -6.668534068603087
+It cost 0.006561 sec
+In outdoor environment
+When dimension is 290
+NMSE is  -6.677332871055041
+It cost 0.007028 sec
+In outdoor environment
+When dimension is 291
+NMSE is  -6.686517059508093
+It cost 0.006828 sec
+In outdoor environment
+When dimension is 292
+NMSE is  -6.695624550312628
+It cost 0.007467 sec
+In outdoor environment
+When dimension is 293
+NMSE is  -6.704468769551216
+It cost 0.006159 sec
+In outdoor environment
+When dimension is 294
+NMSE is  -6.712829173292617
+It cost 0.007375 sec
+In outdoor environment
+When dimension is 295
+NMSE is  -6.72162457290963
+It cost 0.006906 sec
+In outdoor environment
+When dimension is 296
+NMSE is  -6.729655105481478
+It cost 0.007175 sec
+In outdoor environment
+When dimension is 297
+NMSE is  -6.738004026929614
+It cost 0.007773 sec
+In outdoor environment
+When dimension is 298
+NMSE is  -6.745978051068734
+It cost 0.007204 sec
+In outdoor environment
+When dimension is 299
+NMSE is  -6.754239211759011
+It cost 0.007620 sec
+In outdoor environment
+When dimension is 300
+NMSE is  -6.7618654562793035
+It cost 0.007499 sec
+In outdoor environment
+When dimension is 301
+NMSE is  -6.7693356440630765
+It cost 0.008186 sec
+In outdoor environment
+When dimension is 302
+NMSE is  -6.776690229066822
+It cost 0.007491 sec
+In outdoor environment
+When dimension is 303
+NMSE is  -6.783767823226617
+It cost 0.007810 sec
+In outdoor environment
+When dimension is 304
+NMSE is  -6.738522550423317
+It cost 0.007273 sec
+In outdoor environment
+When dimension is 305
+NMSE is  -6.747014618258591
+It cost 0.007906 sec
+In outdoor environment
+When dimension is 306
+NMSE is  -6.756042716821501
+It cost 0.008374 sec
+In outdoor environment
+When dimension is 307
+NMSE is  -6.76460355571002
+It cost 0.008146 sec
+In outdoor environment
+When dimension is 308
+NMSE is  -6.773363547167511
+It cost 0.008371 sec
+In outdoor environment
+When dimension is 309
+NMSE is  -6.781623038411864
+It cost 0.008297 sec
+In outdoor environment
+When dimension is 310
+NMSE is  -6.7893732651326015
+It cost 0.007969 sec
+In outdoor environment
+When dimension is 311
+NMSE is  -6.797409132781745
+It cost 0.007736 sec
+In outdoor environment
+When dimension is 312
+NMSE is  -6.8057821389280395
+It cost 0.007288 sec
+In outdoor environment
+When dimension is 313
+NMSE is  -6.814336334392274
+It cost 0.008081 sec
+In outdoor environment
+When dimension is 314
+NMSE is  -6.82307774205632
+It cost 0.007624 sec
+In outdoor environment
+When dimension is 315
+NMSE is  -6.830732043050012
+It cost 0.008314 sec
+In outdoor environment
+When dimension is 316
+NMSE is  -6.838314235276237
+It cost 0.008525 sec
+In outdoor environment
+When dimension is 317
+NMSE is  -6.8445569537896755
+It cost 0.008071 sec
+In outdoor environment
+When dimension is 318
+NMSE is  -6.851841401951679
+It cost 0.008613 sec
+In outdoor environment
+When dimension is 319
+NMSE is  -6.859506730850659
+It cost 0.008928 sec
+In outdoor environment
+When dimension is 320
+NMSE is  -6.867171771796485
+It cost 0.008229 sec
+In outdoor environment
+When dimension is 321
+NMSE is  -6.874601419609821
+It cost 0.009036 sec
+In outdoor environment
+When dimension is 322
+NMSE is  -6.881714586646442
+It cost 0.008325 sec
+In outdoor environment
+When dimension is 323
+NMSE is  -6.888946914359389
+It cost 0.008764 sec
+In outdoor environment
+When dimension is 324
+NMSE is  -6.896094085871938
+It cost 0.008803 sec
+In outdoor environment
+When dimension is 325
+NMSE is  -6.903569296257049
+It cost 0.008564 sec
+In outdoor environment
+When dimension is 326
+NMSE is  -6.909843055875605
+It cost 0.008868 sec
+In outdoor environment
+When dimension is 327
+NMSE is  -6.916933403634808
+It cost 0.007696 sec
+In outdoor environment
+When dimension is 328
+NMSE is  -6.923998056156247
+It cost 0.009646 sec
+In outdoor environment
+When dimension is 329
+NMSE is  -6.930673915967878
+It cost 0.008661 sec
+In outdoor environment
+When dimension is 330
+NMSE is  -6.93775298061309
+It cost 0.009963 sec
+In outdoor environment
+When dimension is 331
+NMSE is  -6.94421723976259
+It cost 0.009173 sec
+In outdoor environment
+When dimension is 332
+NMSE is  -6.950866551161699
+It cost 0.009682 sec
+In outdoor environment
+When dimension is 333
+NMSE is  -6.957933020797267
+It cost 0.010267 sec
+In outdoor environment
+When dimension is 334
+NMSE is  -6.964318998782351
+It cost 0.009852 sec
+In outdoor environment
+When dimension is 335
+NMSE is  -6.9707659271133195
+It cost 0.010203 sec
+In outdoor environment
+When dimension is 336
+NMSE is  -6.977404093538748
+It cost 0.009835 sec
+In outdoor environment
+When dimension is 337
+NMSE is  -6.983950306404103
+It cost 0.010110 sec
+In outdoor environment
+When dimension is 338
+NMSE is  -6.990281804746631
+It cost 0.009650 sec
+In outdoor environment
+When dimension is 339
+NMSE is  -6.996199629263103
+It cost 0.010397 sec
+In outdoor environment
+When dimension is 340
+NMSE is  -7.001861392234123
+It cost 0.009094 sec
+In outdoor environment
+When dimension is 341
+NMSE is  -7.008189829835856
+It cost 0.010062 sec
+In outdoor environment
+When dimension is 342
+NMSE is  -7.014544750355545
+It cost 0.010221 sec
+In outdoor environment
+When dimension is 343
+NMSE is  -7.020558646285009
+It cost 0.010423 sec
+In outdoor environment
+When dimension is 344
+NMSE is  -7.0262995905903765
+It cost 0.010619 sec
+In outdoor environment
+When dimension is 345
+NMSE is  -7.031801121545179
+It cost 0.010385 sec
+In outdoor environment
+When dimension is 346
+NMSE is  -7.037447686365299
+It cost 0.010886 sec
+In outdoor environment
+When dimension is 347
+NMSE is  -7.044024159561678
+It cost 0.010121 sec
+In outdoor environment
+When dimension is 348
+NMSE is  -7.049492761193074
+It cost 0.010814 sec
+In outdoor environment
+When dimension is 349
+NMSE is  -7.05512034373959
+It cost 0.010859 sec
+In outdoor environment
+When dimension is 350
+NMSE is  -7.060785487988492
+It cost 0.010831 sec
+In outdoor environment
+When dimension is 351
+NMSE is  -7.066276896155827
+It cost 0.010636 sec
+In outdoor environment
+When dimension is 352
+NMSE is  -7.072252757801114
+It cost 0.011043 sec
+In outdoor environment
+When dimension is 353
+NMSE is  -7.0766430832662754
+It cost 0.010963 sec
+In outdoor environment
+When dimension is 354
+NMSE is  -7.082549601367626
+It cost 0.010584 sec
+In outdoor environment
+When dimension is 355
+NMSE is  -7.087087018341698
+It cost 0.011344 sec
+In outdoor environment
+When dimension is 356
+NMSE is  -7.09206911475639
+It cost 0.011107 sec
+In outdoor environment
+When dimension is 357
+NMSE is  -7.097611857426074
+It cost 0.010951 sec
+In outdoor environment
+When dimension is 358
+NMSE is  -7.103175965161736
+It cost 0.011801 sec
+In outdoor environment
+When dimension is 359
+NMSE is  -7.108151291517359
+It cost 0.011339 sec
+In outdoor environment
+When dimension is 360
+NMSE is  -7.1133240805387405
+It cost 0.011641 sec
+In outdoor environment
+When dimension is 361
+NMSE is  -7.118141406497303
+It cost 0.011533 sec
+In outdoor environment
+When dimension is 362
+NMSE is  -7.124142052469128
+It cost 0.010973 sec
+In outdoor environment
+When dimension is 363
+NMSE is  -7.129564501946241
+It cost 0.011760 sec
+In outdoor environment
+When dimension is 364
+NMSE is  -7.134284137720162
+It cost 0.011955 sec
+In outdoor environment
+When dimension is 365
+NMSE is  -7.139292236301227
+It cost 0.012189 sec
+In outdoor environment
+When dimension is 366
+NMSE is  -7.144255486498078
+It cost 0.012412 sec
+In outdoor environment
+When dimension is 367
+NMSE is  -7.149173056437665
+It cost 0.012235 sec
+In outdoor environment
+When dimension is 368
+NMSE is  -7.154746857649966
+It cost 0.012486 sec
+In outdoor environment
+When dimension is 369
+NMSE is  -7.1597836698219375
+It cost 0.012676 sec
+In outdoor environment
+When dimension is 370
+NMSE is  -7.164810159664867
+It cost 0.012285 sec
+In outdoor environment
+When dimension is 371
+NMSE is  -7.169536910288078
+It cost 0.012337 sec
+In outdoor environment
+When dimension is 372
+NMSE is  -7.1738883271689176
+It cost 0.012548 sec
+In outdoor environment
+When dimension is 373
+NMSE is  -7.178019727526815
+It cost 0.011731 sec
+In outdoor environment
+When dimension is 374
+NMSE is  -7.183060952478083
+It cost 0.012803 sec
+In outdoor environment
+When dimension is 375
+NMSE is  -7.187898385753996
+It cost 0.013205 sec
+In outdoor environment
+When dimension is 376
+NMSE is  -7.192594741142803
+It cost 0.012755 sec
+In outdoor environment
+When dimension is 377
+NMSE is  -7.196983588422839
+It cost 0.012334 sec
+In outdoor environment
+When dimension is 378
+NMSE is  -7.201360568107054
+It cost 0.013011 sec
+In outdoor environment
+When dimension is 379
+NMSE is  -7.2052621398813566
+It cost 0.012261 sec
+In outdoor environment
+When dimension is 380
+NMSE is  -7.209096768732092
+It cost 0.012933 sec
+In outdoor environment
+When dimension is 381
+NMSE is  -7.213622255887272
+It cost 0.013276 sec
+In outdoor environment
+When dimension is 382
+NMSE is  -7.218040941330804
+It cost 0.012894 sec
+In outdoor environment
+When dimension is 383
+NMSE is  -7.221772867301318
+It cost 0.012859 sec
+In outdoor environment
+When dimension is 384
+NMSE is  -7.226311247873677
+It cost 0.013052 sec
+In outdoor environment
+When dimension is 385
+NMSE is  -7.230402893209694
+It cost 0.013518 sec
+In outdoor environment
+When dimension is 386
+NMSE is  -7.234563783991208
+It cost 0.012865 sec
+In outdoor environment
+When dimension is 387
+NMSE is  -7.238635116902166
+It cost 0.013616 sec
+In outdoor environment
+When dimension is 388
+NMSE is  -7.242699294588323
+It cost 0.013655 sec
+In outdoor environment
+When dimension is 389
+NMSE is  -7.247553520609637
+It cost 0.013635 sec
+In outdoor environment
+When dimension is 390
+NMSE is  -7.251566942438258
+It cost 0.013603 sec
+In outdoor environment
+When dimension is 391
+NMSE is  -7.255675926498872
+It cost 0.013759 sec
+In outdoor environment
+When dimension is 392
+NMSE is  -7.260003328926691
+It cost 0.014138 sec
+In outdoor environment
+When dimension is 393
+NMSE is  -7.264186485559866
+It cost 0.012989 sec
+In outdoor environment
+When dimension is 394
+NMSE is  -7.268037985755962
+It cost 0.013694 sec
+In outdoor environment
+When dimension is 395
+NMSE is  -7.272374621689737
+It cost 0.013687 sec
+In outdoor environment
+When dimension is 396
+NMSE is  -7.276607049692489
+It cost 0.013863 sec
+In outdoor environment
+When dimension is 397
+NMSE is  -7.280199037448629
+It cost 0.014121 sec
+In outdoor environment
+When dimension is 398
+NMSE is  -7.2837673377436225
+It cost 0.014105 sec
+In outdoor environment
+When dimension is 399
+NMSE is  -7.287356591768869
+It cost 0.014585 sec
+In outdoor environment
+When dimension is 400
+NMSE is  -7.290646401460965
+It cost 0.014575 sec
+In outdoor environment
+When dimension is 401
+NMSE is  -7.294229199837962
+It cost 0.014269 sec
+In outdoor environment
+When dimension is 402
+NMSE is  -7.298215139146037
+It cost 0.014251 sec
+In outdoor environment
+When dimension is 403
+NMSE is  -7.301604971104428
+It cost 0.015031 sec
+In outdoor environment
+When dimension is 404
+NMSE is  -7.305232316769159
+It cost 0.013306 sec
+In outdoor environment
+When dimension is 405
+NMSE is  -7.309036126414945
+It cost 0.014764 sec
+In outdoor environment
+When dimension is 406
+NMSE is  -7.312576623491185
+It cost 0.014966 sec
+In outdoor environment
+When dimension is 407
+NMSE is  -7.31604710394643
+It cost 0.014658 sec
+In outdoor environment
+When dimension is 408
+NMSE is  -7.319173363087507
+It cost 0.014829 sec
+In outdoor environment
+When dimension is 409
+NMSE is  -7.322814020756592
+It cost 0.015103 sec
+In outdoor environment
+When dimension is 410
+NMSE is  -7.326181857248435
+It cost 0.014822 sec
+In outdoor environment
+When dimension is 411
+NMSE is  -7.329528163527186
+It cost 0.014672 sec
+In outdoor environment
+When dimension is 412
+NMSE is  -7.332720172082954
+It cost 0.014690 sec
+In outdoor environment
+When dimension is 413
+NMSE is  -7.336020007848608
+It cost 0.014841 sec
+In outdoor environment
+When dimension is 414
+NMSE is  -7.339322703487213
+It cost 0.015180 sec
+In outdoor environment
+When dimension is 415
+NMSE is  -7.342437341342168
+It cost 0.014781 sec
+In outdoor environment
+When dimension is 416
+NMSE is  -7.345849938633966
+It cost 0.015057 sec
+In outdoor environment
+When dimension is 417
+NMSE is  -7.349374187360143
+It cost 0.015517 sec
+In outdoor environment
+When dimension is 418
+NMSE is  -7.352831642659686
+It cost 0.015364 sec
+In outdoor environment
+When dimension is 419
+NMSE is  -7.3560506888596695
+It cost 0.015358 sec
+In outdoor environment
+When dimension is 420
+NMSE is  -7.359232663681401
+It cost 0.014957 sec
+In outdoor environment
+When dimension is 421
+NMSE is  -7.362648969237108
+It cost 0.015364 sec
+In outdoor environment
+When dimension is 422
+NMSE is  -7.365772271689851
+It cost 0.014874 sec
+In outdoor environment
+When dimension is 423
+NMSE is  -7.368760822403733
+It cost 0.015857 sec
+In outdoor environment
+When dimension is 424
+NMSE is  -7.371517180110922
+It cost 0.016368 sec
+In outdoor environment
+When dimension is 425
+NMSE is  -7.374655354670167
+It cost 0.017131 sec
+In outdoor environment
+When dimension is 426
+NMSE is  -7.377837195779456
+It cost 0.017063 sec
+In outdoor environment
+When dimension is 427
+NMSE is  -7.380494170371824
+It cost 0.017286 sec
+In outdoor environment
+When dimension is 428
+NMSE is  -7.383076252412478
+It cost 0.016670 sec
+In outdoor environment
+When dimension is 429
+NMSE is  -7.385730054694596
+It cost 0.017117 sec
+In outdoor environment
+When dimension is 430
+NMSE is  -7.388858655331467
+It cost 0.018316 sec
+In outdoor environment
+When dimension is 431
+NMSE is  -7.391755231190498
+It cost 0.016991 sec
+In outdoor environment
+When dimension is 432
+NMSE is  -7.395220317077735
+It cost 0.017794 sec
+In outdoor environment
+When dimension is 433
+NMSE is  -7.3985096986901056
+It cost 0.017779 sec
+In outdoor environment
+When dimension is 434
+NMSE is  -7.401136311277799
+It cost 0.017436 sec
+In outdoor environment
+When dimension is 435
+NMSE is  -7.40422085674279
+It cost 0.017377 sec/usr/local/lib/python3.5/dist-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+Using TensorFlow backend.
+
+In outdoor environment
+When dimension is 436
+NMSE is  -7.406532498856292
+It cost 0.017526 sec
+In outdoor environment
+When dimension is 437
+NMSE is  -7.409206023358514
+It cost 0.017350 sec
+In outdoor environment
+When dimension is 438
+NMSE is  -7.411916499155318
+It cost 0.017864 sec
+In outdoor environment
+When dimension is 439
+NMSE is  -7.414402797043072
+It cost 0.018587 sec
+In outdoor environment
+When dimension is 440
+NMSE is  -7.41701262194799
+It cost 0.017639 sec
+In outdoor environment
+When dimension is 441
+NMSE is  -7.4198015707964995
+It cost 0.018239 sec
+In outdoor environment
+When dimension is 442
+NMSE is  -7.421888113989452
+It cost 0.018069 sec
+In outdoor environment
+When dimension is 443
+NMSE is  -7.4245965045100935
+It cost 0.017710 sec
+In outdoor environment
+When dimension is 444
+NMSE is  -7.4270814856479905
+It cost 0.018543 sec
+In outdoor environment
+When dimension is 445
+NMSE is  -7.429646664371415
+It cost 0.017508 sec
+In outdoor environment
+When dimension is 446
+NMSE is  -7.431671311324985
+It cost 0.018576 sec
+In outdoor environment
+When dimension is 447
+NMSE is  -7.433962130425412
+It cost 0.020023 sec
+In outdoor environment
+When dimension is 448
+NMSE is  -7.43665510988615
+It cost 0.018638 sec
+In outdoor environment
+When dimension is 449
+NMSE is  -7.43893205349817
+It cost 0.018937 sec
+In outdoor environment
+When dimension is 450
+NMSE is  -7.441475519544683
+It cost 0.018396 sec
+In outdoor environment
+When dimension is 451
+NMSE is  -7.443697874337312
+It cost 0.018424 sec
+In outdoor environment
+When dimension is 452
+NMSE is  -7.445967012909906
+It cost 0.018710 sec
+In outdoor environment
+When dimension is 453
+NMSE is  -7.447884217966376
+It cost 0.018520 sec
+In outdoor environment
+When dimension is 454
+NMSE is  -7.449805867119849
+It cost 0.018071 sec
+In outdoor environment
+When dimension is 455
+NMSE is  -7.452188338634162
+It cost 0.018012 sec
+In outdoor environment
+When dimension is 456
+NMSE is  -7.453841831689992
+It cost 0.018636 sec
+In outdoor environment
+When dimension is 457
+NMSE is  -7.45589940683905
+It cost 0.020334 sec
+In outdoor environment
+When dimension is 458
+NMSE is  -7.458063919935299
+It cost 0.018974 sec
+In outdoor environment
+When dimension is 459
+NMSE is  -7.460101140166248
+It cost 0.018804 sec
+In outdoor environment
+When dimension is 460
+NMSE is  -7.461862261651663
+It cost 0.019638 sec
+In outdoor environment
+When dimension is 461
+NMSE is  -7.463656216320875
+It cost 0.018009 sec
+In outdoor environment
+When dimension is 462
+NMSE is  -7.465588829957497
+It cost 0.018094 sec
+In outdoor environment
+When dimension is 463
+NMSE is  -7.467563843042625
+It cost 0.017715 sec
+In outdoor environment
+When dimension is 464
+NMSE is  -7.469537225074424
+It cost 0.018887 sec
+In outdoor environment
+When dimension is 465
+NMSE is  -7.471608036274606
+It cost 0.019384 sec
+In outdoor environment
+When dimension is 466
+NMSE is  -7.473582533789662
+It cost 0.019049 sec
+In outdoor environment
+When dimension is 467
+NMSE is  -7.475470718080333
+It cost 0.019395 sec
+In outdoor environment
+When dimension is 468
+NMSE is  -7.477177628128439
+It cost 0.019347 sec
+In outdoor environment
+When dimension is 469
+NMSE is  -7.479048543705151
+It cost 0.019372 sec
+In outdoor environment
+When dimension is 470
+NMSE is  -7.48081301919
+It cost 0.019399 sec
+In outdoor environment
+When dimension is 471
+NMSE is  -7.4822614317855525
+It cost 0.019438 sec
+In outdoor environment
+When dimension is 472
+NMSE is  -7.483768699558047
+It cost 0.019932 sec
+In outdoor environment
+When dimension is 473
+NMSE is  -7.485438977473363
+It cost 0.019239 sec
+In outdoor environment
+When dimension is 474
+NMSE is  -7.487187909364101
+It cost 0.020068 sec
+In outdoor environment
+When dimension is 475
+NMSE is  -7.488581464368479
+It cost 0.019612 sec
+In outdoor environment
+When dimension is 476
+NMSE is  -7.49053101415311
+It cost 0.019617 sec
+In outdoor environment
+When dimension is 477
+NMSE is  -7.49210254530695
+It cost 0.019989 sec
+In outdoor environment
+When dimension is 478
+NMSE is  -7.493704079954753
+It cost 0.019965 sec
+In outdoor environment
+When dimension is 479
+NMSE is  -7.49537891114959
+It cost 0.020033 sec
+In outdoor environment
+When dimension is 480
+NMSE is  -7.496716550336616
+It cost 0.020055 sec
+In outdoor environment
+When dimension is 481
+NMSE is  -7.498351800275465
+It cost 0.019824 sec
+In outdoor environment
+When dimension is 482
+NMSE is  -7.499790791148739
+It cost 0.019916 sec
+In outdoor environment
+When dimension is 483
+NMSE is  -7.501083196638561
+It cost 0.020184 sec
+In outdoor environment
+When dimension is 484
+NMSE is  -7.502040283122775
+It cost 0.020638 sec
+In outdoor environment
+When dimension is 485
+NMSE is  -7.503354117651401
+It cost 0.020219 sec
+In outdoor environment
+When dimension is 486
+NMSE is  -7.504355418627969
+It cost 0.020367 sec
+In outdoor environment
+When dimension is 487
+NMSE is  -7.505632785781553
+It cost 0.020598 sec
+In outdoor environment
+When dimension is 488
+NMSE is  -7.50659379130054
+It cost 0.020103 sec
+In outdoor environment
+When dimension is 489
+NMSE is  -7.507511263453631
+It cost 0.020631 sec
+In outdoor environment
+When dimension is 490
+NMSE is  -7.508601036225821
+It cost 0.020773 sec
+In outdoor environment
+When dimension is 491
+NMSE is  -7.509755275779519
+It cost 0.020680 sec
+In outdoor environment
+When dimension is 492
+NMSE is  -7.5102816233223235
+It cost 0.021004 sec
+In outdoor environment
+When dimension is 493
+NMSE is  -7.511183091508109
+It cost 0.020743 sec
+In outdoor environment
+When dimension is 494
+NMSE is  -7.512084381918359
+It cost 0.021469 sec
+In outdoor environment
+When dimension is 495
+NMSE is  -7.512816498757889
+It cost 0.020658 sec
+In outdoor environment
+When dimension is 496
+NMSE is  -7.513599117033468
+It cost 0.021329 sec
+In outdoor environment
+When dimension is 497
+NMSE is  -7.514499813625035
+It cost 0.020700 sec
+In outdoor environment
+When dimension is 498
+NMSE is  -7.515071653919973
+It cost 0.021553 sec
+In outdoor environment
+When dimension is 499
+NMSE is  -7.515565045356882
+It cost 0.021651 sec
+In outdoor environment
+When dimension is 500
+NMSE is  -7.516131546839943
+It cost 0.020517 sec
+In outdoor environment
+When dimension is 501
+NMSE is  -7.516718945555779
+It cost 0.021419 sec
+In outdoor environment
+When dimension is 502
+NMSE is  -7.5168804210645925
+It cost 0.020890 sec
+In outdoor environment
+When dimension is 503
+NMSE is  -7.517291078140164
+It cost 0.020927 sec
+In outdoor environment
+When dimension is 504
+NMSE is  -7.517652810042996
+It cost 0.021599 sec
+In outdoor environment
+When dimension is 505
+NMSE is  -7.517993377107226
+It cost 0.021624 sec
+In outdoor environment
+When dimension is 506
+NMSE is  -7.518172441318846
+It cost 0.021635 sec
+In outdoor environment
+When dimension is 507
+NMSE is  -7.518263438002544
+It cost 0.022255 sec
+In outdoor environment
+When dimension is 508
+NMSE is  -7.518430818407728
+It cost 0.022281 sec
+In outdoor environment
+When dimension is 509
+NMSE is  -7.518486735133415
+It cost 0.022523 sec
+In outdoor environment
+When dimension is 510
+NMSE is  -7.51852255145362
+It cost 0.022432 sec
+In outdoor environment
+When dimension is 511
+NMSE is  -7.5185379013955576
+It cost 0.021399 sec
+In outdoor environment
+When dimension is 512
+NMSE is  -7.518451284576736
