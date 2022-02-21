@@ -4,7 +4,9 @@
 
 Environment Requirement:
 python == 3.5.2
+
 tensorflow-gpu == 1.12.0
+
 keras == 2.2.4
 
 ### CH-CsiNet_train.py
