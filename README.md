@@ -15,6 +15,9 @@ Training code for CH-CsiNet, a (**ch**)angeable Rate CSI feedback network based 
 ### CH-CsiNet_test.py
 Test/Inference code for CH-CsiNet.
 
+### CsiNet-PQB.py
+CsiNet with bump function-based approximate quantization gradient.
+
 ### ./result/\*.h5
 Well-trained weights of CH-CsiNet. The training dataset is provided by **"C. Wen, W. Shih, and S. Jin, “Deep learning for massive MIMO CSI feedback,” IEEE Wireless Communications Letters, vol. 7, no. 5, pp. 748–751, 2018"**
 
