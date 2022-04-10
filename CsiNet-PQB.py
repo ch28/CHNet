@@ -1,3 +1,11 @@
+#-----------------------------------------------------------------------------------+
+# Author: Xin Liang                                                                 |
+# Time Stamp: Jan 4, 2021                                                           |
+# Affiliation: Beijing University of Posts and Telecommunications                   |
+# Email: liangxin@bupt.edu.cn                                                       |
+#-----------------------------------------------------------------------------------+
+#                             *** Open Source Code ***                              |
+#-----------------------------------------------------------------------------------+
 import tensorflow as tf
 from keras.layers import Input, Dense, BatchNormalization, Reshape, Conv2D, add, LeakyReLU, Activation, Lambda, multiply, Layer
 from keras.models import Model
