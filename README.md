@@ -35,5 +35,4 @@ The authors of CRNet also provide the open source codes of CRNet at https://gith
 ### About citation
 **We appreciate it if this part of work is helpful for researchers!**
 
-**[1] X. Liang, H. Chang, H. Li, X. Gu and L. Zhang, "Changeable Rate and Novel Quantization for CSI Feedback Based on Deep Learning," in IEEE Transactions on Wireless Communications, vol. 21, no. 12, pp. 10100-10114, Dec. 2022, doi: 10.1109/TWC.2022.3182216.
-**
+[1] X. Liang, H. Chang, H. Li, X. Gu and L. Zhang, "Changeable Rate and Novel Quantization for CSI Feedback Based on Deep Learning," in IEEE Transactions on Wireless Communications, vol. 21, no. 12, pp. 10100-10114, Dec. 2022, doi: 10.1109/TWC.2022.3182216.
