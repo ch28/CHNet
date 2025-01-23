@@ -30,3 +30,6 @@ Tensorflow version of CRNet for paper "Z. Lu, J. Wang and J. Song, ”Multi-reso
 The authors of CRNet also provide the open source codes of CRNet at https://github.com/Kylin9511/CRNet
 
 **Note that in the submitted paper, we generate the training dataset by ourselves. However, to make this work convincing and facilitate researchers, we use Wen's public dataset in this open source project.**
+
+About citation: We will appreciate it if researchers would like to cite this part of work!
+[1] X. Liang, H. Chang, H. Li, X. Gu and L. Zhang, "Changeable Rate and Novel Quantization for CSI Feedback Based on Deep Learning," in IEEE Transactions on Wireless Communications, vol. 21, no. 12, pp. 10100-10114, Dec. 2022, doi: 10.1109/TWC.2022.3182216.
